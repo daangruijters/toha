@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #248aaa;
+  color: #8e1843;
 }
 
 a:hover {
@@ -58,8 +58,8 @@ a:hover {
 
 .btn-dark:hover,
 .btn-dark:focus {
-  background-color: #248aaa;
-  border-color: #248aaa;
+  background-color: #8e1843;
+  border-color: #8e1843;
   transition: all 0.3s ease-out;
 }
 
@@ -74,7 +74,7 @@ a:hover {
 }
 
 .btn-info {
-  background-color: #248aaa !important;
+  background-color: #8e1843 !important;
   color: #e5e9f2 !important;
 }
 
@@ -84,7 +84,7 @@ a:hover {
 }
 
 .btn-link{
-  color: #248aaa;
+  color: #8e1843;
 }
 
 .btn-link:hover{
