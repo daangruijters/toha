@@ -58,8 +58,8 @@ a:hover {
 
 .btn-dark:hover,
 .btn-dark:focus {
-  background-color: #8e1843;
-  border-color: #8e1843;
+  background-color: #2098d1;
+  border-color: #2098d1;
   transition: all 0.3s ease-out;
 }
 
@@ -74,7 +74,7 @@ a:hover {
 }
 
 .btn-info {
-  background-color: #8e1843 !important;
+  background-color: #2098d1 !important;
   color: #e5e9f2 !important;
 }
 
@@ -84,7 +84,7 @@ a:hover {
 }
 
 .btn-link{
-  color: #8e1843;
+  color: #2098d1;
 }
 
 .btn-link:hover{
