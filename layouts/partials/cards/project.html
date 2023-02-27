@@ -25,7 +25,7 @@
         </div>
       </a>
       <div class="card-body text-justify pt-1 pb-1">
-        <p>{{ .summary | markdownify }}</p>
+        <p class="card-text">{{ .summary | markdownify }}</p>
         <span class="float-right">
           {{ if .repo }}
           <a
