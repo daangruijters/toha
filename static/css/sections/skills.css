@@ -26,6 +26,18 @@
   padding-left: 0.7rem;
 }
 
+.card {
+  border-radius: .5rem;
+}
+
+.card-body {
+  background-color: #3c4858;
+}
+
+.card-text {
+  color: #ffffff;
+}
+
 /* ============= Device specific fixes ======= */
 
 /* Large screens such as TV */
