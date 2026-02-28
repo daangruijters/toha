@@ -1,6 +1,5 @@
-# More documentation here: https://github.com/nicksnyder/go-i18n
 [home]
-other = "Home"
+other = "Hoofdpagina"
 
 [posts]
 other = "Posts"
@@ -8,38 +7,44 @@ other = "Posts"
 [toc_heading]
 other = "Inhoudsopgave"
 
+[tags]
+other = "Tags"
+
+[categories]
+other = "Categorieën"
+
 [at]
 other = "bij"
 
 [resume]
-other = "Mijn CV"
+other = "Curriculum Vitae"
 
 [navigation]
 other = "Navigatie"
 
 [contact_me]
-other = "Neem contact op:"
+other = "Contactgegevens"
 
 [email]
-other = "Email"
+other = "E-Mail"
 
 [phone]
 other = "Telefoon"
 
 [newsletter_text]
-other = "Blijf op de hoogte met email notificaties"
+other = "Ontvang updates via email"
 
 [newsletter_input_placeholder]
-other = "Voer emailadres in"
+other = "Email ingeven"
 
 [newsletter_warning]
-other = "We delen je informatie nooit met derden."
+other = "Door uw e-mailadres in te voeren, gaat u akkoord met het ontvangen van de nieuwsbrief van deze website."
 
 [submit]
-other = "Versturen"
+other = "Opslaan"
 
 [hugoAttributionText]
-other = "Powered by"
+other = "Mogelijk gemaakt met"
 
 [prev]
 other = "Vorige"
@@ -47,8 +52,11 @@ other = "Vorige"
 [next]
 other = "Volgende"
 
+[share_on]
+other = "Delen op"
+
 [improve_this_page]
-other = "Verbeter deze pagina"
+other = "Deze pagina verbeteren"
 
 [out_of]
 other = "van de"
@@ -57,19 +65,61 @@ other = "van de"
 other = "Publicaties"
 
 [taken_courses]
-other = "Genomen vakken"
+other = "Gevolgde cursussen"
 
 [course_name]
-other = "Vak naam"
+other = "Cursus naam"
 
 [total_credit]
-other = "Totale score"
+other = "Totaal krediet"
 
 [obtained_credit]
-other = "Behaalde score"
+other = "Krediet verkregen"
 
 [extracurricular_activities]
 other = "Buitenschoolse activiteiten"
 
-[see_more]
+[show_more]
+other = "Bekijk meer"
+
+[show_less]
+other = "Laat minder zien"
+
+[responsibilities]
+other = "Verantwoordelijkheden:"
+
+[present]
+other = "Heden"
+
+# [comments_javascript]
+# other = "Please enable JavaScript to view the"
+
+# [comments_by]
+# other = "comments powered by"
+
+# [read]
+# other = "Read"
+
+# [project_star]
+# other = "Star"
+
+[project_details]
+other = "Details"
+
+[err_404]
+other = "De pagina waar je voor zoekt bestaat nog niet."
+
+[more]
 other = "Meer"
+
+[view_certificate]
+other = "Bekijk certificaat"
+
+[notes]
+other = "Opmerkingen"
+
+[disclaimer_text]
+other = "Aansprakelijkheidsverklaring"
+
+[search]
+other = "Zoek"

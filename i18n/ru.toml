@@ -8,6 +8,12 @@ other = "Посты"
 [toc_heading]
 other = "Оглавление"
 
+[tags]
+other = "Теги"
+
+[categories]
+other = "Категории"
+
 [at]
 other = "в"
 
@@ -33,7 +39,7 @@ other = "Подпишитесь на уведомления, чтобы не п�
 other = "Введите email"
 
 [newsletter_warning]
-other = "Ваши данные в безопасности"
+other = "Вводя свой адрес электронной почты, вы соглашаетесь получать информационный бюллетень этого веб-сайта."
 
 [submit]
 other = "Подтвердить"
@@ -46,6 +52,9 @@ other = "Предыдущий"
 
 [next]
 other = "Следующий"
+
+# [share_on]
+# other = "Share on"
 
 [improve_this_page]
 other = "Улучшить эту страницу"
@@ -71,5 +80,47 @@ other = "Полученный кредит"
 [extracurricular_activities]
 other = "Внеклассные занятия"
 
-[see_more]
+[show_more]
 other = "Узнать больше"
+
+[show_less]
+other = "Показывай меньше"
+
+# [responsibilities]
+# other = "Responsibilities:"
+
+# [present]
+# other = "Present"
+
+# [comments_javascript]
+# other = "Please enable JavaScript to view the"
+
+# [comments_by]
+# other = "comments powered by"
+
+# [read]
+# other = "Read"
+
+# [project_star]
+# other = "Star"
+
+# [project_details]
+# other = "Details"
+
+# [err_404]
+# other = "The page you are looking for is not there yet."
+
+[more]
+other = "Более"
+
+[view_certificate]
+other = "Просмотреть сертификат"
+
+[notes]
+other = "Ноты"
+
+[disclaimer_text]
+other = "Уведомление об ответственности"
+
+[search]
+other = "Поиск"

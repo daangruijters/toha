@@ -8,6 +8,12 @@ other = "পোষ্ট সমূহ"
 [toc_heading]
 other = "সুচিপত্র"
 
+[tags]
+other = "ট্যাগ সমুহ"
+
+[categories]
+other = "বিভাগ সমুহ"
+
 [resume]
 other = "আমার জীবনবৃত্তান্ত"
 
@@ -30,7 +36,7 @@ other = "ইমেইল নোটিফিকেশান এর মাধ্�
 other = "ইমেইল প্রবেশ করান"
 
 [newsletter_warning]
-other = "আমরা আপনার ইমেল অন্য কারও সাথে শেয়ার করব না।"
+other = "আপনার ইমেইল ঠিকানা প্রবেশের মাধমে আপনি এই ওয়েবসাইটের নিউজ লেটার পেতে সম্মত হচ্ছেন।"
 
 [submit]
 other = "জমা দিন"
@@ -43,6 +49,9 @@ other = "পূর্ববর্তী"
 
 [next]
 other = "পরবর্তী"
+
+[share_on]
+other = "শেয়ার করুন"
 
 [improve_this_page]
 other = "এই পৃষ্ঠাটি উন্নত করুন"
@@ -68,5 +77,50 @@ other = "অর্জিত ক্রেডিট"
 [extracurricular_activities]
 other = "পাঠক্রম বহির্ভূত কার্যক্রম"
 
-[see_more]
-other = "আরো দেখুন"
+[show_more]
+other = "আরো দেখান"
+
+[show_less]
+other = "কম দেখান"
+
+[responsibilities]
+other = "দায়িত্বসমুহ:"
+
+[present]
+other = "বর্তমান"
+
+# [comments_javascript]
+# other = "Please enable JavaScript to view the"
+
+# [comments_by]
+# other = "comments powered by"
+
+# [read]
+# other = "Read"
+
+# [project_star]
+# other = "Star"
+
+# [project_details]
+# other = "Details"
+
+# [err_404]
+# other = "The page you are looking for is not there yet."
+
+[more]
+other = "আরো"
+
+[view_certificate]
+other = "সার্টিফিকেট দেখুন"
+
+[notes]
+other = "নোট সমূহ"
+
+[disclaimer_text]
+other = "দায় বিজ্ঞপ্তি"
+
+[search]
+other = "অনুসন্ধান করুন"
+
+[minute]
+other = "মিনিট"
