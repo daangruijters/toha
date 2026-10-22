@@ -10,7 +10,7 @@
     {{ block "header" . }} {{ end }}
 
     <!--================= add analytics if enabled =========================-->
-    {{ template "_internal/google_analytics.html" . }}
+    {{ partial "google_analytics.html" . }}
     {{ with resources.Get "scripts/core/theme-scheme.js" | fingerprint }}
     <script integrity="{{.Data.Integrity}}">
      {{ .Content | safeJS }}
